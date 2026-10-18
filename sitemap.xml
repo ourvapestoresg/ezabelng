@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- Homepage -->
+<url>
+<loc>https://ourvapestoresg.github.io/ezabelng/</loc>
+<lastmod>2026-10-19</lastmod>
+<changefreq>daily</changefreq>
+<priority>1.00</priority>
+</url>
+<!-- Investigation Dossier Report Page -->
+<url>
+<loc>https://ourvapestoresg.github.io/ezabelng/ezabelng.html</loc>
+<lastmod>2026-10-19</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.90</priority>
+</url>
+</urlset>
